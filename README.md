@@ -8,25 +8,29 @@ Whether you’re maintaining a small collection or checking a large tracker list
 
 ## Screenshots
 
-[View the main application interface](https://i.postimg.cc/26FFNnr2/Screenshot-2026-11-05-104423.png)
+[![TrackerPulse main interface](https://i.postimg.cc/26FFNnr2/Screenshot-2026-11-05-104423.png)](https://i.postimg.cc/26FFNnr2/Screenshot-2026-11-05-104423.png)
 
-[View the application in action](https://i.postimg.cc/9MttHyCx/Screenshot-2026-11-05-104508.png)
+[![TrackerPulse application in action](https://i.postimg.cc/9MttHyCx/Screenshot-2026-11-05-104508.png)](https://i.postimg.cc/9MttHyCx/Screenshot-2026-11-05-104508.png)
+
+## VirusTotal
+
+[View the VirusTotal scan report](https://www.virustotal.com/gui/file-analysis/ZDVhZDljNmE5MjUzMTRlYTc2NTBkYTgzODA2NDNkNWI6MTc5Mzg3MjYyNw==)
 
 ## Features
 
-- Multi-protocol validation — Check HTTP, HTTPS, and UDP tracker URLs.
-- Concurrent scanning — Validate multiple trackers simultaneously, with configurable thread counts and connection timeouts.
-- Clear result categories — Separate trackers into alive, dead, and invalid groups.
-- Response-time measurements — Optionally measure how long each validation request takes.
-- Diagnostic details — Review connection errors, timeouts, invalid responses, and other validation results.
-- Invalid-page detection — Identify common signs of parked domains, advertising pages, and ordinary HTML pages instead of tracker responses.
-- Automatic deduplication — Remove duplicate tracker URLs when importing a list.
-- Live progress tracking — Monitor completed checks, category counts, scanning speed, and estimated time remaining.
-- Search and filtering — Find specific entries and display results by status.
-- Flexible exports — Save a categorized report or export only working trackers.
-- Configurable autosave — Save partial results after a chosen number of checks, a time interval, or both.
-- Stop and save — Stop a scan while preserving the results already collected.
-- Persistent settings — Keep your scanning and export preferences between sessions.
+- **Multi-protocol validation** — Check HTTP, HTTPS, and UDP tracker URLs.
+- **Concurrent scanning** — Validate multiple trackers simultaneously, with configurable thread counts and connection timeouts.
+- **Clear result categories** — Separate trackers into alive, dead, and invalid groups.
+- **Response-time measurements** — Optionally measure how long each validation request takes.
+- **Diagnostic details** — Review connection errors, timeouts, invalid responses, and other validation results.
+- **Invalid-page detection** — Identify common signs of parked domains, advertising pages, and ordinary HTML pages instead of tracker responses.
+- **Automatic deduplication** — Remove duplicate tracker URLs when importing a list.
+- **Live progress tracking** — Monitor completed checks, category counts, scanning speed, and estimated time remaining.
+- **Search and filtering** — Find specific entries and display results by status.
+- **Flexible exports** — Save a categorized report or export only working trackers.
+- **Configurable autosave** — Save partial results after a chosen number of checks, a time interval, or both.
+- **Stop and save** — Stop a scan while preserving the results already collected.
+- **Persistent settings** — Keep your scanning and export preferences between sessions.
 
 ## How It Works
 
